@@ -21,6 +21,8 @@ _______________
 2) Decode the template using the ANet provided guidelines.
 3) Take decoded values and assign corresponding attributes, profession, skills, etc.
 4) Scrape the Guild Wars Wiki website for skill images.
-  4.5) Store image locally for future skill bars to speed up the process!
+
+*4.5) Store image locally for future skill bars to speed up the process!
+
 5) Combine images into a skill-bar.
 6) Post result back.
