@@ -18,7 +18,7 @@ How it works:
 _______________
 
 1) See if a template is asked for in the discord channel it is set up for.
-2) Decode the template using the ANet provided decoding.
+2) Decode the template using the ANet provided guidelines.
 3) Take decoded values and assign corresponding attributes, profession, skills, etc.
 4) Scrape the Guild Wars Wiki website for skill images.
 5) Combine images into a skill-bar.
